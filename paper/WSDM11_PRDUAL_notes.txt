@@ -1,0 +1,1 @@
+In Fig. 6 Algorithm PRDualRank, it is stated to update rules P1, P2, R1, R2 until convergence. We note that the converged solution may be trivial. In practice, we only run the rules for a fixed number of iterations (3 in our experiments) to avoid trivial solutions. 
